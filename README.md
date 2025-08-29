@@ -1,4 +1,3 @@
-# Hi, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=000000&center=false&vCenter=true&width=435&lines=murkov93)](https://git.io/typing-svg)
 
 ## Languages & Tools
 <p align="left">
