@@ -4,7 +4,7 @@ I'm a cybersecurity student and passionate about programming and development.
 I mainly code in Python and have knowledge in SQL, HTML, CSS, and JavaScript.  
 I enjoy learning new things, nothing scares me when it comes to tackling challenges, and I participate in quite a few CTFs.
 
----
+
 
 ## Skills
 
@@ -17,7 +17,7 @@ I enjoy learning new things, nothing scares me when it comes to tackling challen
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
----
+
 
 ## GitHub Stats
 
