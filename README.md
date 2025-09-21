@@ -21,5 +21,5 @@ I enjoy learning new things, nothing scares me when it comes to tackling challen
 
 ## GitHub Stats
 
-![murkov93's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkov93&show_icons=true&theme=radical)
+![murkov93's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkov93&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
 
