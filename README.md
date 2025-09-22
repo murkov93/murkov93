@@ -1,8 +1,8 @@
 # Hi, I'm murkov93
 
-I'm a cybersecurity student and passionate about programming and development.  
-I mainly code in Python and have knowledge in SQL, HTML, CSS, and JavaScript.  
-I enjoy learning new things, nothing scares me when it comes to tackling challenges, and I participate in quite a few CTFs.
+I'm a cybersecurity student with a focus on programming and development.
+I code primarily in Python and have experience with SQL, HTML, CSS, and JavaScript.
+I approach new challenges without hesitation and participate in numerous CTFs.
 
 
 
