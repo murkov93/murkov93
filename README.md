@@ -1,8 +1,8 @@
 # Hi, I'm murkov93
 
-I'm a cybersecurity student with a focus on programming and development.
-I code primarily in Python and have experience with SQL, HTML, CSS, and JavaScript.
-I approach new challenges without hesitation and participate in numerous CTFs.
+I'm a first-year Bachelor's student in Cybersecurity at EPITA.
+I primarily code in Python and C, with additional knowledge in SQL, HTML/CSS, and JavaScript.
+I enjoy tackling new challenges and actively participate in numerous CTF competitions.
 
 
 
@@ -15,7 +15,9 @@ I approach new challenges without hesitation and participate in numerous CTFs.
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff" alt="C"/>
 </p>
+
 
 
 
