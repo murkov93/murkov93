@@ -11,11 +11,11 @@ I enjoy tackling new challenges and actively participate in numerous CTF competi
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff" alt="C"/>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff" alt="C"/>
 </p>
 
 
