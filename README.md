@@ -1,6 +1,6 @@
 # Hi, I'm murkov93
 
-I'm a first-year Bachelor's student in Cybersecurity at EPITA.  
+I'm a first-year Bachelor's student in Cybersecurity at EPITA (Paris).  
 I primarily code in Python and C, with additional knowledge in SQL, HTML/CSS, and JavaScript.  
 I enjoy tackling new challenges and actively participate in numerous CTF competitions.
 
