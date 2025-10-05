@@ -18,4 +18,4 @@ I enjoy tackling new challenges and actively participate in numerous CTF competi
 
 ## GitHub Stats
 
-![murkov93's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkov93&show_icons=true&bg_color=e5d8d0&title_color=936a4f&text_color=936a4f&icon_color=936a4f&border_color=936a4f)
+![murkov93's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkov93&show_icons=true&bg_color=1a1a1a&title_color=FF1493&text_color=FF1493&icon_color=FF1493&border_color=FF1493)
