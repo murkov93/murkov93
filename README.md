@@ -5,8 +5,6 @@ I'm a first-year Bachelor's student in Cybersecurity at EPITA (Paris).
 I primarily code in Python and C, with additional knowledge in SQL, HTML/CSS, and JavaScript.  
 I enjoy tackling new challenges and actively participate in numerous CTF competitions.
 
-## Skills
-
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3F6F5F" alt="Python"/>
