@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm murkov93
 
 I'm a first-year Bachelor's student in Cybersecurity at EPITA (Paris).  
@@ -19,3 +20,4 @@ I enjoy tackling new challenges and actively participate in numerous CTF competi
 ## GitHub Stats
 
 ![murkov93's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkov93&show_icons=true&bg_color=000000&title_color=3F6F5F&text_color=3F6F5F&icon_color=3F6F5F&border_color=3F6F5F)
+</div>
