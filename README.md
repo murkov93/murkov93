@@ -7,7 +7,7 @@ I enjoy tackling new challenges and actively participate in numerous CTF competi
 ## Skills
 
 ### Programming Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python"/>
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14" alt="C"/>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="SQL"/>
