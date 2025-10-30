@@ -7,15 +7,14 @@ I enjoy tackling new challenges and actively participate in numerous CTF competi
 
 ### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B0000" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=8B0000" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=8B0000" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=8B0000" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=8B0000" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8B0000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript"/>
 </p>
 
 ## GitHub Stats
 
-![murkov93's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkov93&show_icons=true&bg_color=000000&title_color=8B0000&text_color=8B0000&icon_color=8B0000&border_color=8B0000)
-</div>
+![murkov93's GitHub stats](https://github-readme-stats.vercel.app/api?username=murkov93&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=000000)
