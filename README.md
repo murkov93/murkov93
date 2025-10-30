@@ -7,12 +7,24 @@ I enjoy tackling new challenges and actively participate in numerous CTF competi
 
 ### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript"/>
+  <span style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
+  </span>
+  <span style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C"/>
+  </span>
+  <span style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="SQL"/>
+  </span>
+  <span style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML"/>
+  </span>
+  <span style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS"/>
+  </span>
+  <span style="border-radius: 10px; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript"/>
+  </span>
 </p>
 
 ## GitHub Stats
